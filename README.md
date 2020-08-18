@@ -1,2 +1,0 @@
-# Webbuyer
-Projeto faculdade SI
